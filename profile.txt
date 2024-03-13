@@ -1,0 +1,2 @@
+Average execution time for recursive.py: 30888125 nanoseconds
+Average execution time for iterative.py: 28034328 nanoseconds
